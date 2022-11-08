@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Audiopib-blueviolet)
+![](https://img.shields.io/badge/foodie-blueviolet)
 
 # Portfolio Template
 
